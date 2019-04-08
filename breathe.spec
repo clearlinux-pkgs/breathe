@@ -4,7 +4,7 @@
 #
 Name     : breathe
 Version  : 4.12.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/83/d4/df98c034bccbd1d3ccbbc51100eaeba7f627aef4dfafcdabdcb748589e84/breathe-4.12.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/83/d4/df98c034bccbd1d3ccbbc51100eaeba7f627aef4dfafcdabdcb748589e84/breathe-4.12.0.tar.gz
 Summary  : Sphinx Doxygen renderer
@@ -58,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1554742251
+export SOURCE_DATE_EPOCH=1554742442
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
 
