@@ -4,7 +4,7 @@
 #
 Name     : breathe
 Version  : 4.12.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/83/d4/df98c034bccbd1d3ccbbc51100eaeba7f627aef4dfafcdabdcb748589e84/breathe-4.12.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/83/d4/df98c034bccbd1d3ccbbc51100eaeba7f627aef4dfafcdabdcb748589e84/breathe-4.12.0.tar.gz
 Summary  : Sphinx Doxygen renderer
