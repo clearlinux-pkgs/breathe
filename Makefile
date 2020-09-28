@@ -1,5 +1,5 @@
 PKG_NAME := breathe
-URL = https://files.pythonhosted.org/packages/57/ad/5a43cac59fe020a3574fdb6246793dece875287d229fa3e730b9e5969bb9/breathe-4.22.0.tar.gz
+URL = https://files.pythonhosted.org/packages/84/c3/1c99ee90f3deba996087d5cafafbf8d9878918974d2ebc7b49073b847c51/breathe-4.22.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
